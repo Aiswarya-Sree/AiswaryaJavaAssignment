@@ -6,7 +6,7 @@ static int b=3;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int c=a+b;
-System.out.println("sum is "+c);
+System.out.println("sum is 5+3 "+c);
 	}
 
 }
